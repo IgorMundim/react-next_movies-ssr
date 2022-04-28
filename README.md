@@ -10,6 +10,6 @@
   ### SSR - React/Next
  **Importante.: Os conteúdos apresentados foram apenas para análise do React e seus recursos afim de estudo.**
  
- [Veja também outros exercícios sugeridos **SPA (REACT)**](https://github.com/IgorMundim/react_movies-spa.git)
+ [Veja também outros exercícios sugeridos **_SPA (REACT)_**](https://github.com/IgorMundim/react_movies-spa.git)
  
- [Veja também outros exercícios sugeridos **SPA (REACT/REDUX)**](https://github.com/IgorMundim/react-redux_movies-spa.git)
+ [Veja também outros exercícios sugeridos **_SPA (REACT/REDUX)_**](https://github.com/IgorMundim/react-redux_movies-spa.git)
